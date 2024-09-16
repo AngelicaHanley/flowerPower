@@ -1,6 +1,6 @@
 # Flower Power Project Description
 
-#How to Use: download the entire flowerPower folder to Processing, if you get the error "NullPointerException" when trying to run the project, then that means one of the data image files still needs to be downloaded
+#How to Use: download the entire flowerPower folder to Processing, if you get the error "NullPointerException" when trying to run the project, then that means one of the data image files still needs to be downloaded!
 
 #Collaborated in a five-person team to create a vertical scrolling game in Processing, featuring dynamic gameplay elements such as obstacles and power-ups, enhancing the player experience across multiple difficulty levels
 
