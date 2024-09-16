@@ -3,4 +3,4 @@
 
 #Optimized game mechanics by refining obstacle and power-up elements and improved user engagement through the development of core game functions such as draw, score, and game over, and integrated the restart feature for replayability
 
-#Download the entire flowerPower folder to Processing, if you get the error "NullPointerException" when trying to run the project, then that means one of the data image files still needs to be downloaded
+#How to Use: download the entire flowerPower folder to Processing, if you get the error "NullPointerException" when trying to run the project, then that means one of the data image files still needs to be downloaded
